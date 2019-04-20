@@ -1,0 +1,31 @@
+dom:
+  zjedz:
+    mięso
+    chleb
+  idz spac, 
+  wyjdz z domu, 
+  upiecz chleb.
+podworko:
+  idz do lasu, 
+  idz do kopalni, 
+  idz na farme, 
+  idź do domu
+las:
+  idz na lowy, 
+  idz rabac drewno.
+  idź na podwórko
+farma: 
+  #do 16 posadzonej pszenicy
+  podlej pszenice
+  siej pszenice
+  zbieraj pszenice.
+  idź na podwórko
+kopalnia:
+  zbieraj metal
+  idź na podwórko
+
+1. dom
+2. podwórko
+3. farma
+4. las
+5. kopalnia
